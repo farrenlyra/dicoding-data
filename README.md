@@ -16,7 +16,8 @@ In the README, I'll explain these steps in detail, showcasing how the analysis l
 ├── dashboard
 │   ├── dashboard.py
 │   └── day.csv
-├── data
+│   └── logo.png
+├── dataset
 │   ├── Readme.txt
 │   ├── day.csv
 |   └── hour.csv
